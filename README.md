@@ -1,4 +1,7 @@
 # Sobre mí:
+# 👋 Hola, soy Harold
+
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Java+Developer;Spring+Boot+Developer;Backend+Developer;Cibertec+Student)
 👋 ¡Hola! Soy un apasionado programador de 22 años actualmente estudiando Computación e Informática en el instituto técnico Cibertec, Lima , Perú. Mi objetivo es no solo aprender, sino destacar en el mundo del desarrollo de software y contribuir activamente a proyectos de impacto.<br><br>Busco oportunidades para crecer, experimentar con nuevas tecnologías y mejorar mis habilidades, con un enfoque en escribir código eficiente, limpio y bien estructurado. Me motiva colaborar en equipo y asumir desafíos que me impulsen a dar lo mejor de mí en cada proyecto.<br><br>💻 En mi perfil encontrarás proyectos en los que demuestro mi dedicación y creatividad, y tengo muchas ganas de seguir sumando más. Mi visión a largo plazo es consolidarme como un profesional destacado, aportando innovación y soluciones de calidad.<br><br>Si estás buscando un programador entusiasta, con ansias de aprender y contribuir, no dudes en contactarme. 
 
 
@@ -12,3 +15,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Haroldbg26&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haroldbg26&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 💻 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldBg16&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
