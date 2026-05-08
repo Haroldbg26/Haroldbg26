@@ -37,8 +37,10 @@
 ### 📊 Mis Estadísticas de GitHub
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Haroldbg26&show_icons=true&theme=visual_studio_code&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haroldbg26&layout=compact&theme=visual_studio_code&border_radius=10" />
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haroldbg26&layout=compact&theme=visual_studio_code&border_radius=10" />
 </p>
+
+---
 
 
 
