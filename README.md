@@ -1,5 +1,8 @@
 # Sobre mí:
-👋 ¡Hola! Soy un programador junior de 22 años actualmente estudiando Computación e Informática en el instituto técnico Cibertec Lima, Perú. Mi objetivo es no solo aprender, sino destacar en el mundo del desarrollo de software y contribuir activamente a proyectos de impacto.<br><br>Busco oportunidades para crecer, experimentar con nuevas tecnologías y mejorar mis habilidades, con un enfoque en escribir código eficiente, limpio y bien estructurado. Me motiva colaborar en equipo y asumir desafíos que me impulsen a dar lo mejor de mí en cada proyecto.<br><br>💻 En mi perfil encontrarás proyectos en los que demuestro mi dedicación y creatividad, y tengo muchas ganas de seguir sumando más. Mi visión a largo plazo es consolidarme como un profesional destacado, aportando innovación y soluciones de calidad.<br><br>Si estás buscando un programador entusiasta, con ansias de aprender y contribuir, no dudes en contactarme. 
+👋 ¡Hola! Soy un programador junior de 22 años actualmente estudiando Computación e Informática en el instituto técnico Cibertec Lima, Perú. Mi objetivo es no solo aprender, sino destacar en el mundo del desarrollo de software y contribuir activamente a proyectos de impacto.<br><br>Busco oportunidades para crecer, experimentar con nuevas tecnologías y mejorar mis habilidades, con un enfoque en escribir código eficiente, limpio y bien estructurado. Me motiva colaborar en equipo y asumir desafíos que me impulsen a dar lo mejor de mí en cada proyecto.<br><br>
+
+- 🌱 Aprendiendo constantemente sobre **Programación**
+- ⚡ siendo curioso en este campo.
 
 
 ## 🌐 Socials:
@@ -29,8 +32,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Haroldbg26&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haroldbg26&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Lenguajes más usados
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haroldbg26&theme=tokyonight&hide_border=true&layout=compact)
+
+
+### 📊 Mis Estadísticas de GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Haroldbg26&show_icons=true&theme=visual_studio_code&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haroldbg26&layout=compact&theme=visual_studio_code&border_radius=10" />
+</p>
+
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Haroldbg26&limit=5&theme=onedark&combine_all_yearly_contributions=true)
